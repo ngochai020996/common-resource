@@ -1,0 +1,7 @@
+{
+    "conf.system.name": "awsome.axonactive.com",
+    "conf.system.port": "8443",
+    "comf.system.version": "2.0.0",
+    "conf.exchange.rate": 0.14,
+    "conf.exchange.defaultValue":"332320329392"
+}

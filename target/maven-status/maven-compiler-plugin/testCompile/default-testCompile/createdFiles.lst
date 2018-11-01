@@ -1,0 +1,6 @@
+com\axonactive\common\resource\conf\ConfigKey.class
+com\axonactive\common\resource\conf\JsonMessageServiceTest.class
+com\axonactive\common\resource\i18n\PropertiesMessageServiceTest.class
+com\axonactive\common\resource\conf\PropertiesMessageServiceTest.class
+com\axonactive\common\resource\i18n\MessageKey.class
+com\axonactive\common\resource\i18n\JsonMessageServiceTest.class

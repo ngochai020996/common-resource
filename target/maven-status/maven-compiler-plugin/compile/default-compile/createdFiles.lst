@@ -1,0 +1,11 @@
+com\axonactive\common\resource\i18n\PropertiesMessageService.class
+com\axonactive\common\resource\i18n\JsonMessageService.class
+com\axonactive\common\resource\ResourceKey.class
+com\axonactive\common\resource\AbstractResourceService.class
+com\axonactive\common\resource\conf\JsonConfigurationService.class
+com\axonactive\common\resource\JsonResourceBundleControl$JSONResourceBundle.class
+com\axonactive\common\resource\conf\PropertiesConfigurationService.class
+com\axonactive\common\resource\conf\AbstractConfigurationService.class
+com\axonactive\common\resource\JsonResourceBundleControl.class
+com\axonactive\common\resource\i18n\AbstractMessageService.class
+com\axonactive\common\resource\PropertiesResourceBundleControl.class
